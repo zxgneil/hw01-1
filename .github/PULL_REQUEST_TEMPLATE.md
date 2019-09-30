@@ -1,12 +1,3 @@
----
-name: PR template for CFSS
-about: Used for students submitting a pull request for a homework assignment
-title: Description of my submission
-labels: ''
-assignees: ''
-
----
-
 Before submitting your pull request, have you:
 
 * Included all relevant files in your fork (e.g. R Markdown files, rendered Markdown files, images/graphs)?
