@@ -6,4 +6,4 @@ Hello!
 
 My name is **Xiaogao Zhou** 
 
-I was sick last week 
+I was very sick last week 
